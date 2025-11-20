@@ -1,0 +1,3 @@
+# Ignorer le dossier contenant la clé OpenAI et autres secrets
+.secret/
+mugen_termux_app/
