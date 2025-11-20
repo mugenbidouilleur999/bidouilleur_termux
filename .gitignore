@@ -1,1 +1,2 @@
 # Ignorer le dossier contenant la clé OpenAI et autres secrets
+.secret/
